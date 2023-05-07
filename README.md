@@ -1,4 +1,4 @@
-# README
+# SIMULADOR DE CARRO
 Este repositório contém um simples projeto em Java que simula um carro com um motor, onde é possível ligar, desligar, acelerar e frear o carro.
 
 Estrutura do projeto
